@@ -1,0 +1,111 @@
+# =========================
+# Dependencies
+# =========================
+node_modules/
+jspm_packages/
+
+# =========================
+# Logs
+# =========================
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =========================
+# Runtime data
+# =========================
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# =========================
+# Build folders
+# =========================
+dist/
+build/
+.next/
+out/
+coverage/
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Temporary files
+# =========================
+tmp/
+temp/
+
+# =========================
+# Uploads / Generated files
+# =========================
+uploads/
+generated_reports/
+parsed_files/
+
+# =========================
+# Database files
+# =========================
+*.sqlite
+*.sqlite3
+
+# =========================
+# Excel / CSV test files
+# (optional - remove if needed)
+# =========================
+*.csv
+*.xlsx
+
+# =========================
+# Package manager lock files
+# (optional depending on team)
+# =========================
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# =========================
+# React / Vite
+# =========================
+.vite/
+vite.svg
+
+# =========================
+# Backend cache
+# =========================
+.cache/
+
+# =========================
+# TypeScript
+# =========================
+*.tsbuildinfo
+
+# =========================
+# Mac hidden files
+# =========================
+.AppleDouble
+.LSOverride
